@@ -17,7 +17,7 @@ Installation Instructions
 5. Go to Admin - Store - Configuration - ITYetti - Clean Cache Single Product
 6. `Is Enabled` - Yes
 
-![ITYetti Clean Cache Single Product](https://github.com/ityetti/clean-cache-single-product/blob/main/clean-cache-single-product.png?raw=true)
+![ITYetti Clean Cache Single Product](https://github.com/ityetti/module-clean-cache-single-product/blob/main/clean-cache-single-product.png)
 
 Uninstallation
 --------------
@@ -25,11 +25,11 @@ Uninstallation
 
 Support
 -------
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/ityetti/clean-cache-single-product/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/ityetti/module-clean-cache-single-product/issues).
 
 Contribution
 ------------
-Any contribution is highly appreciated. The best way to contribute code is to open a [pull request on GitHub](https://github.com/ityetti/clean-cache-single-product/pulls).
+Any contribution is highly appreciated. The best way to contribute code is to open a [pull request on GitHub](https://github.com/ityetti/module-clean-cache-single-product/pulls).
 
 Developer
 ---------
